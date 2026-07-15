@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0292-nim-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Khush-33/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Prefix Sum
 |  |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Khush-33/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
