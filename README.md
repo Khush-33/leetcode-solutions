@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Khush-33/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2643-row-with-maximum-ones](https://github.com/Khush-33/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Khush-33/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Khush-33/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
