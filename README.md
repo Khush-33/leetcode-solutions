@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Khush-33/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Khush-33/leetcode-solutions/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Khush-33/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Khush-33/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Khush-33/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Khush-33/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
