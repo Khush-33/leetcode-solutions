@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Khush-33/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Khush-33/leetcode-solutions/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/Khush-33/leetcode-solutions/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/Khush-33/leetcode-solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0260-single-number-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Khush-33/leetcode-solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Khush-33/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
