@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Khush-33/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Khush-33/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Khush-33/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Khush-33/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Khush-33/leetcode-solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Khush-33/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Khush-33/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Khush-33/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Khush-33/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Khush-33/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Counting Sort
