@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Khush-33/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Khush-33/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Khush-33/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0860-lemonade-change](https://github.com/Khush-33/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Khush-33/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Khush-33/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
