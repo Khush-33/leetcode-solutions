@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Khush-33/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Khush-33/leetcode-solutions/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/Khush-33/leetcode-solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Khush-33/leetcode-solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Khush-33/leetcode-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Khush-33/leetcode-solutions/tree/master/0204-count-primes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Khush-33/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Khush-33/leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Khush-33/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
