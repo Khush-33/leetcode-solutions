@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Khush-33/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1901-find-a-peak-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Khush-33/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Khush-33/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khush-33/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Khush-33/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2498-frog-jump-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Khush-33/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Khush-33/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Khush-33/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Khush-33/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Khush-33/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Khush-33/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Khush-33/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -238,4 +244,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Khush-33/leetcode-solutions/tree/master/0062-unique-paths) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
