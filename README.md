@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Khush-33/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/Khush-33/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0678-valid-parenthesis-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1108-defanging-an-ip-address](https://github.com/Khush-33/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
