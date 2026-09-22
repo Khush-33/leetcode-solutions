@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Khush-33/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Khush-33/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Khush-33/leetcode-solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0494-target-sum) |
 ## Enumeration
