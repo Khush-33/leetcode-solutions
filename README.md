@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Khush-33/leetcode-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Khush-33/leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Khush-33/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0063-unique-paths-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Khush-33/leetcode-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Khush-33/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Khush-33/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0494-target-sum) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0494-target-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Khush-33/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
