@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Khush-33/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Khush-33/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0292-nim-game) |
+| [0507-perfect-number](https://github.com/Khush-33/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Khush-33/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/Khush-33/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
