@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/Khush-33/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Khush-33/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/Khush-33/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/Khush-33/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Khush-33/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Khush-33/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Khush-33/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1106-parsing-a-boolean-expression](https://github.com/Khush-33/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Khush-33/leetcode-solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Khush-33/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Khush-33/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1106-parsing-a-boolean-expression](https://github.com/Khush-33/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1922-count-good-numbers](https://github.com/Khush-33/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
