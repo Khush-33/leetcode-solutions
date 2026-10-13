@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Khush-33/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Khush-33/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Khush-33/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Khush-33/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Khush-33/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Khush-33/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Khush-33/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Khush-33/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0213-house-robber-ii) |
