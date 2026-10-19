@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Khush-33/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/Khush-33/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Khush-33/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Khush-33/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Khush-33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Khush-33/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Khush-33/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Khush-33/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/Khush-33/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Khush-33/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
