@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/Khush-33/leetcode-solutions/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/Khush-33/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Khush-33/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Khush-33/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Khush-33/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Khush-33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Khush-33/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1048-longest-string-chain](https://github.com/Khush-33/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Khush-33/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Khush-33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Khush-33/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Khush-33/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Quicksort
 |  |
 | ------- |
