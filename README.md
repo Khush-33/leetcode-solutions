@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Khush-33/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Khush-33/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0383-ransom-note](https://github.com/Khush-33/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Khush-33/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Khush-33/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Khush-33/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/Khush-33/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0383-ransom-note](https://github.com/Khush-33/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/Khush-33/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Khush-33/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Khush-33/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Quicksort
