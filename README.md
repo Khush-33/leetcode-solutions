@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Khush-33/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Khush-33/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Khush-33/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Khush-33/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Khush-33/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Khush-33/leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Khush-33/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Khush-33/leetcode-solutions/tree/master/0322-coin-change) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Khush-33/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Khush-33/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Khush-33/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
