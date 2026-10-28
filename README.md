@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Khush-33/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khush-33/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Khush-33/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Khush-33/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Khush-33/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Khush-33/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
