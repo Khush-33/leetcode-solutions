@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Khush-33/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khush-33/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Khush-33/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2498-frog-jump-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Khush-33/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Khush-33/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khush-33/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2498-frog-jump-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Khush-33/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khush-33/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
