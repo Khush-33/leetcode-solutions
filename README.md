@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Khush-33/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1254-number-of-closed-islands](https://github.com/Khush-33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Khush-33/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Khush-33/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Khush-33/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -169,11 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Khush-33/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Khush-33/leetcode-solutions/tree/master/0322-coin-change) |
+| [1254-number-of-closed-islands](https://github.com/Khush-33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Khush-33/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Khush-33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Khush-33/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Khush-33/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Khush-33/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/Khush-33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Khush-33/leetcode-solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Khush-33/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
@@ -523,5 +527,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Khush-33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Khush-33/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
