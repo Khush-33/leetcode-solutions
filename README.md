@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khush-33/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Khush-33/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Khush-33/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Khush-33/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Khush-33/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
