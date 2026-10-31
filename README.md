@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Khush-33/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Khush-33/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Khush-33/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/Khush-33/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Khush-33/leetcode-solutions/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Khush-33/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0507-perfect-number](https://github.com/Khush-33/leetcode-solutions/tree/master/0507-perfect-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Khush-33/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Khush-33/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Khush-33/leetcode-solutions/tree/master/0322-coin-change) |
 | [1254-number-of-closed-islands](https://github.com/Khush-33/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Khush-33/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Khush-33/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Khush-33/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/Khush-33/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Khush-33/leetcode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Khush-33/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
@@ -439,12 +442,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Khush-33/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Khush-33/leetcode-solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Khush-33/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Khush-33/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Khush-33/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Khush-33/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
