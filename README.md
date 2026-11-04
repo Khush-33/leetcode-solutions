@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Khush-33/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Khush-33/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khush-33/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Khush-33/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Khush-33/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -133,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Khush-33/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Khush-33/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Khush-33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khush-33/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Khush-33/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Khush-33/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khush-33/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Khush-33/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Khush-33/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/Khush-33/leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khush-33/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Khush-33/leetcode-solutions/tree/master/0630-course-schedule-iii) |
 | [0912-sort-an-array](https://github.com/Khush-33/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khush-33/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -262,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Khush-33/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Khush-33/leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Khush-33/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Khush-33/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Khush-33/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
